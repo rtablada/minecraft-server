@@ -1,0 +1,14 @@
+[10:17:47] [User Authenticator #2/INFO]: UUID of player dcypherthis is 381944d6-6d20-4bc3-85e3-3e4249039b34
+[10:17:47] [Server thread/INFO]: dcypherthis[/67.177.176.164:43520] logged in with entity id 2803 at (-550.647020600781, 74.16610926093821, -41.299424908511334)
+[10:17:47] [Server thread/INFO]: dcypherthis joined the game
+[11:17:51] [Server thread/INFO]: dcypherthis was shot by Skeleton
+[11:53:01] [Server thread/INFO]: dcypherthis was shot by Skeleton
+[11:54:25] [Server thread/INFO]: dcypherthis was shot by Skeleton
+[12:19:52] [Server thread/INFO]: dcypherthis was killed by Witch using magic
+[13:20:26] [Server thread/INFO]: dcypherthis lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[13:20:26] [Server thread/INFO]: dcypherthis left the game
+[13:24:18] [User Authenticator #3/INFO]: UUID of player 1lastword is c0f23d8d-d6c8-461a-bc74-731653908a9e
+[13:24:18] [Server thread/INFO]: 1lastword[/50.232.12.251:50945] logged in with entity id 88793 at (-553.4510614769623, 67.0, -35.50665796927619)
+[13:24:18] [Server thread/INFO]: 1lastword joined the game
+[13:29:03] [Server thread/INFO]: 1lastword lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[13:29:03] [Server thread/INFO]: 1lastword left the game

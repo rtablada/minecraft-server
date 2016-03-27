@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "uuid": "c0f23d8d-d6c8-461a-bc74-731653908a9e",
+    "name": "1lastword",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "381944d6-6d20-4bc3-85e3-3e4249039b34",
+    "name": "dcypherthis",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
